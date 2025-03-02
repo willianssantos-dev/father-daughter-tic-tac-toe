@@ -1,1 +1,2 @@
-# father-daughter-tic-tac-toe
+# Father-Daughter Tic-Tac-Toe
+Este projeto é um jogo da velha desenvolvido com HTML, CSS e JavaScript. Foi criado como uma forma lúdica e interativa de apresentar conceitos básicos de programação para minha filha de 11 anos, mostrando como essas tecnologias podem ser usadas para construir algo divertido e funcional.
